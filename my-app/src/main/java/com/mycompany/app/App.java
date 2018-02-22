@@ -8,7 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Now New Hello World!" );
+        System.out.println( "Update Now New Hello World!" );
 
         System.out.println("A NullPointerException is a drag...");
         Object myObject = null;
